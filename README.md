@@ -1,2 +1,2 @@
 # artifiticial-intelligence-car
-an artificial intelligent car with Raspberry Pi
+* Equipped with ultrasonic, infrared tracking, camera and other sensors to achieve manual driving, automatic tracking, ultrasonic obstacle avoidance, video transmission and other functions.
